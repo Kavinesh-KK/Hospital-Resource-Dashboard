@@ -1,0 +1,6 @@
+patient_id,department,admission_date,discharge_date,admission_type,outcome,cost,bed_utilized
+1,Cardiology,2025-01-01,2025-01-05,Emergency,Recovered,25000,Yes
+2,Orthopedics,2025-01-02,2025-01-06,Scheduled,Improved,18000,Yes
+3,Pediatrics,2025-01-03,2025-01-04,Emergency,Recovered,12000,Yes
+4,Oncology,2025-01-04,2025-01-10,Scheduled,Transferred,40000,Yes
+5,General Medicine,2025-01-05,2025-01-07,Emergency,Recovered,9000,Yes
