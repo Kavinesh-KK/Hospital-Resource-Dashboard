@@ -3,7 +3,7 @@ import pandas as pd
 
 app = FastAPI()
 
-df = pd.read_csv("dataset/hospital_data.csv")
+df = pd.read_csv("hospital_data.csv")
 
 @app.get("/")
 def home():
@@ -12,3 +12,4 @@ def home():
 @app.get("/data")
 def get_data():
     return df.to_dict(orient="records")
+
