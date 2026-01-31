@@ -32,6 +32,3 @@ This project provides operational insights into hospital performance by analyzin
 - **CSV Dataset** – Simulated hospital data  
 
 ---
-
-## 📂 Project Structure
-
